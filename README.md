@@ -1,5 +1,5 @@
 
-# How To Set Up Nginx as a Load Balancer on aws EC2-instace
+# How To Set Up Nginx as a Load Balancer on aws EC2-instance
 
  
 
